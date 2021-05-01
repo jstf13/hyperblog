@@ -1,5 +1,19 @@
 body{
-    color: aqua;
-    text-align: center;
+    color: brown;
+    text-align: left;
     font-family: "Arial";
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 5px solid #7e3838 !important;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
